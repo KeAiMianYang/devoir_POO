@@ -1,0 +1,7 @@
+"€|" == ensemble vide
+
+order:
+	analyse lexical (bool, then another one, ...)
+	analyse syntaxique
+	structure de données
+	builder
