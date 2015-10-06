@@ -62,7 +62,7 @@ public class Interpreteur {
 	 */
 	private void interprete() throws IOException{
 		String[] tokens;
-		boolean keepGoing = true;
+		
 		do{
 			tokens = this.splitNextLine();
 			int v1, v2;

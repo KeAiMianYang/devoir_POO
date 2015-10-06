@@ -1,8 +1,6 @@
 package tp_interpreteur.exercice2;
 
 import java.io.LineNumberReader;
-import java.io.OutputStream;
-import java.io.OutputStreamWriter;
 import java.io.PrintStream;
 import java.io.FileReader;
 import java.io.FileNotFoundException;

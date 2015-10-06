@@ -6,6 +6,16 @@ package tp_interpreteur.exercice2;
 class Jeton {
 
     /**
+     * Type de ce jeton.
+     */
+    protected final Type type;
+
+    /**
+     * Representation de ce jeton sous forme d'une chaine de caractere.
+     */
+    protected final String representation;
+
+    /**
      * Type enumere fortement type representant les differentes types de
      * jetons.
      */
@@ -137,15 +147,5 @@ class Jeton {
 	this.type = type;
 	this.representation = representation;
     }
-
-    /**
-     * Type de ce jeton.
-     */
-    protected final Type type;
-
-    /**
-     * Representation de ce jeton sous forme d'une chaine de caractere.
-     */
-    protected final String representation;
 
 }
