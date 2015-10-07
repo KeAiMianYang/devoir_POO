@@ -1,0 +1,10 @@
+# ce sont mes conventions,
+#ce fichier est juste là pour faciliter la compréhension de mon code
+
+contrainte de syntaxe:
+	attributs : a_maVar
+	variables d'entrées : i_maVar
+	variables de sorties : o_maVar
+	classes : MaClasse
+	fonctions : ma_fonction
+	packages : mon_package
